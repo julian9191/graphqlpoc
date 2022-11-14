@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GraphQLApplication {
 
-	//http://local.k12.com:8080/graphiql
+	//http://localhost:8080/graphiql
 	public static void main(String[] args) {
 		SpringApplication.run(GraphQLApplication.class, args);
 	}
