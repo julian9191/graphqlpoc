@@ -44,12 +44,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://local.k12.com:8080/graphql",
+					"raw": "http://localhost:8080/graphql",
 					"protocol": "http",
 					"host": [
-						"local",
-						"k12",
-						"com"
+						"localhost"
 					],
 					"port": "8080",
 					"path": [
@@ -72,12 +70,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://local.k12.com:8080/graphql",
+					"raw": "http://localhost:8080/graphql",
 					"protocol": "http",
 					"host": [
-						"local",
-						"k12",
-						"com"
+						"localhost"
 					],
 					"port": "8080",
 					"path": [
@@ -100,12 +96,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://local.k12.com:8080/graphql",
+					"raw": "http://localhost:8080/graphql",
 					"protocol": "http",
 					"host": [
-						"local",
-						"k12",
-						"com"
+						"localhost"
 					],
 					"port": "8080",
 					"path": [
